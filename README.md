@@ -45,17 +45,28 @@ While Volume I focused on the core infrastructure and backend systems, **Volume 
 
 ```text
 exploring-java-libraries-2/
-├── assets/                 # Book cover, UI screenshots, and diagrams
-├── examples/               # Isolated code snippets categorized by package
-│   ├── ch01_text/          # java.text examples (DateFormat, MessageFormat)
-│   ├── ch02_awt/           # Graphics2D, Layouts, and AWT components
-│   ├── ch03_swing/         # JTables, JTrees, Custom Models, and Events
-│   └── ch04_access/        # AccessibleContext implementations
-├── projects/               # Complete, runable GUI mini-applications
-├── docs/                   # Additional setup notes and UI guidelines
-├── .gitignore              # Java compilation exclusions
-├── LICENSE                 # MIT License details
-└── README.md               # This documentation
+├── assets/                              
+│   └── Cover-2.jpg                      # Official book cover used in README and repository preview
+├── examples/                            # Production-oriented Java examples aligned with book chapters
+│
+│   ├── 6-java-text/                     
+│   │   ├── a1_TextExample.java          # Comprehensive text processing (formatting, parsing, i18n)
+│   │   └── a5_NumberFormatExample.java  # Locale-aware number, currency, percentage formatting
+│
+│   ├── 7-java-awt/                      
+│   │   ├── b12_ButtonExample.java       # Core AWT component usage with event handling
+│   │   └── b52_BufferedImageOpExample.java # Advanced graphics processing and image transformations
+│   ├── 8-java-swing/                    
+│   │   ├── b14_JLabelExample.java       # Swing UI fundamentals (labels, icons, alignment)
+│   │   └── c101_ElementExample.java     # Swing text model and document structure
+│   └── 9-java-accessibility/            
+│       ├── a4_AccessibleExtendedComponentExample.java # Advanced accessibility integration
+│       └── a8_AccessibleTextExample.java # Text navigation and assistive technology support
+├── notes/                               
+│   └── chapter-index.md                 # Full chapter breakdown and reference index
+├── .gitignore                           # Standard Java exclusions (classes, IDE files, etc.)
+├── LICENSE                              # MIT License (open usage with attribution)
+└── README.md                            # Main repository documentation
 ```
 
 ---
