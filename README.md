@@ -151,7 +151,7 @@ This repository is strictly organized to reflect the structured learning approac
 
 ---
 
-## 🏢 About the Author
+## About the Author
 
 **Solis Dynamics** Technical publishing focused on bridging the gap between theoretical computer science and practical, real-world software engineering.
 
@@ -162,6 +162,4 @@ This repository is strictly organized to reflect the structured learning approac
 
 ## License
 
-This repository is intended for **educational and promotional use**.
-
----
+This repository is intended for **educational and promotional use**. The code is licensed under the **MIT License**.
