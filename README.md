@@ -159,6 +159,18 @@ This repository is strictly organized to reflect the structured learning approac
 
 ---
 
+## 🔗 The Exploring Java Libraries Series
+
+Building a strong foundation is just the beginning. Once you master the core runtime and I/O systems, take your skills to the next level with the next volume in this series.
+
+| Current Volume | Next Step |
+| :--- | :--- |
+| **Volume I: Core Foundations** | **Volume II: Desktop & UI Development** |
+| Mastering `java.lang`, `util`, `io`, and `nio`. | Ready to build professional interfaces? Explore Advanced Text, AWT, Swing, and Accessibility. |
+| 📍 *You are here* | 🚀 [**Explore Volume II**](https://github.com/SolisDynamics/Exploring-Java-Libraries-Volume-2) |
+
+---
+
 ## About the Author
 
 **Solis Dynamics** Technical publishing focused on bridging the gap between theoretical computer science and practical, real-world software engineering.
