@@ -11,8 +11,8 @@
 </div>
 
 ---
-# Exploring Java Libraries – Volume II  
-### Free Code Examples & Companion Resources
+
+### Real-World Java Code & Companion Resources
 
 Practical Java examples for **text processing, desktop GUI development, and accessibility**, designed for developers who want to move beyond theory.
 
@@ -149,16 +149,12 @@ This repository is strictly organized to reflect the structured learning approac
 
 ---
 
-## About the Author
+## 🏢 About the Author
 
-**Solis Dynamics**  
-Technical publishing focused on practical, structured, and real-world software development knowledge.
+**Solis Dynamics** Technical publishing focused on bridging the gap between theoretical computer science and practical, real-world software engineering.
 
----
-
-## Contact
-
-**solisdynamicscontact@gmail.com**
+* **Contact:** solisdynamicscontact@gmail.com
+* **GitHub:** [@SolisDynamics](https://github.com/SolisDynamics)
 
 ---
 
