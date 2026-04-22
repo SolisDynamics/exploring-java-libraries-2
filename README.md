@@ -1,13 +1,15 @@
 <div align="center">
-  <img src="assets/Cover-2.jpg" alt="Exploring Java Libraries Volume 2 Cover" width="250"/>
 
-  # Exploring Java Libraries: A Developer’s Guide (Volume II)
-  ### Advanced Text Processing, AWT, Swing GUI, and Accessibility in Java
+<img src="assets/Cover-2.jpg" alt="Exploring Java Libraries Volume 2 Cover" width="250"/>
 
-  [![Java Version](https://img.shields.io/badge/Java-22%2B-ED8B00?style=for-the-badge&logo=java)](https://www.oracle.com/java/)
-  [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
-  [![Status: Live](https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge)](https://github.com/SolisDynamics)
-  [![Publisher: Solis Dynamics](https://img.shields.io/badge/Publisher-Solis%20Dynamics-black?style=for-the-badge)](#)
+# Exploring Java Libraries: A Developer’s Guide (Volume II)
+### Advanced Text Processing, AWT, Swing GUI, and Accessibility in Java
+
+[![Java Version](https://img.shields.io/badge/Java-22%2B-ED8B00?style=for-the-badge&logo=java)](https://www.oracle.com/java/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
+[![Status: Live](https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge)](https://github.com/SolisDynamics)
+[![Publisher: Solis Dynamics](https://img.shields.io/badge/Publisher-Solis%20Dynamics-black?style=for-the-badge)](#)
+
 </div>
 
 ---
