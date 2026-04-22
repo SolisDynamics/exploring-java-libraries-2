@@ -151,6 +151,14 @@ This repository is strictly organized to reflect the structured learning approac
 
 ---
 
+## 🚀 Key Learning Modules
+- **Advanced Text Processing:** Unicode, I18n, and complex formatting.
+- **AWT Foundation:** 2D Graphics, Geometry, and Event Delegation.
+- **Swing MVC Architecture:** Lightweight components and Look & Feel.
+- **Inclusive Design:** Implementing Java Accessibility API (JAAPI).
+
+---
+
 ## About the Author
 
 **Solis Dynamics** Technical publishing focused on bridging the gap between theoretical computer science and practical, real-world software engineering.
