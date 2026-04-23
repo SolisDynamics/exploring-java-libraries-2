@@ -1,0 +1,33 @@
+cff-version: 1.2.0
+message: "If you use these Java GUI, Swing, AWT, or Accessibility examples, please cite it as follows."
+title: "Exploring Java Libraries: A Developer’s Guide (Volume II)"
+version: "1.0.0"
+date-released: 2026-04-20
+
+authors:
+  - name: "Solis Dynamics"
+
+abstract: >
+  An advanced Java GUI development guide covering java.text, AWT, Swing,
+  and Java Accessibility API. Focused on desktop application development,
+  UI architecture, and real-world graphical systems.
+
+keywords:
+  - Java Swing
+  - Java AWT
+  - Java GUI
+  - Java desktop application
+  - Java accessibility API
+  - java.text formatting
+  - Java UI development
+
+license: "MIT"
+
+url: "https://github.com/SolisDynamics/exploring-java-libraries-2"
+
+preferred-citation:
+  type: book
+  title: "Exploring Java Libraries: A Developer’s Guide (Volume II)"
+  authors:
+    - name: "Solis Dynamics"
+  year: 2026
