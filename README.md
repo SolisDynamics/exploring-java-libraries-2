@@ -18,6 +18,9 @@
 
 Practical Java examples for **text processing, desktop GUI development, and accessibility**, designed for developers who want to move beyond theory.
 
+> Learn advanced Java development with real-world examples covering **java.text formatting, Java AWT examples, Swing GUI, and Java Accessibility API**.  
+> This repository is designed for developers who want to master **Java GUI development**, build **Java desktop applications**, and understand real-world UI architecture using Java libraries.
+
 ---
 
 ## About This Repository
@@ -34,6 +37,7 @@ While Volume I focused on the core infrastructure and backend systems, **Volume 
 
 ## What This Repository Includes
 
+These examples serve as a practical **Java Swing tutorial** and include real **Java AWT examples** used in production-grade applications.
 - Core examples from `java.text`
 - AWT graphical programming samples  
 - Swing-based desktop UI implementations  
@@ -75,7 +79,10 @@ exploring-java-libraries-2/
 
 ## What You Will Learn
 
+This section acts as a complete **Java GUI development guide**, covering everything needed to build modern **Java desktop applications**.
+
 ### ✔ Advanced Text Processing (`java.text`)
+Master **java.text formatting** for real-world localization and data presentation.
 - Formatting and parsing  
 - Localization (i18n / l10n)  
 - Character iteration  
@@ -94,6 +101,7 @@ exploring-java-libraries-2/
 - Event handling and UI architecture  
 
 ### ✔ Accessibility (`javax.accessibility`)
+Learn how to implement the **Java Accessibility API** to build inclusive and accessible software systems.
 - Building inclusive applications  
 - Supporting assistive technologies  
 - Improving usability and compliance  
@@ -151,7 +159,7 @@ This repository is strictly organized to reflect the structured learning approac
 
 ---
 
-## 🚀 Key Learning Modules
+## Key Learning Modules
 - **Advanced Text Processing:** Unicode, I18n, and complex formatting.
 - **AWT Foundation:** 2D Graphics, Geometry, and Event Delegation.
 - **Swing MVC Architecture:** Lightweight components and Look & Feel.
@@ -167,7 +175,12 @@ Building a strong foundation is just the beginning. Once you master the core run
 | :--- | :--- |
 | **Volume I: Core Foundations** | **Volume II: Desktop & UI Development** |
 | Mastering `java.lang`, `util`, `io`, and `nio`. | Ready to build professional interfaces? Explore Advanced Text, AWT, Swing, and Accessibility. |
-| 📍 *You are here* | 🚀 [**Explore Volume II**](https://github.com/SolisDynamics/Exploring-Java-Libraries-Volume-2) |
+
+👉 Start from the core foundation:  
+**Volume I:** https://github.com/SolisDynamics/exploring-java-libraries-1
+
+👉 Continue your journey with GUI and desktop development:  
+**Volume II:** https://github.com/SolisDynamics/exploring-java-libraries-2
 
 ---
 
@@ -177,6 +190,12 @@ Building a strong foundation is just the beginning. Once you master the core run
 
 * **Contact:** solisdynamicscontact@gmail.com
 * **GitHub:** [@SolisDynamics](https://github.com/SolisDynamics)
+
+---
+
+## ⭐ Support the Project
+
+If this repository helps you, consider giving it a ⭐ to support the project and help others discover it.
 
 ---
 
