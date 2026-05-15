@@ -110,8 +110,13 @@ Learn how to implement the **Java Accessibility API** to build inclusive and acc
 
 ## Get the Full Book
 Take the next step and unlock the complete structured guide:
-* **🔗Gumroad:** https://solisdynamics.gumroad.com/l/java-libraries-guide-2
-* **🔗Leanpub:** https://leanpub.com/java-libraries-guide-2
+
+| 🛒 Store | Direct Access Link |
+| --- | --- |
+| **Gumroad** | [![Gumroad](https://img.shields.io/badge/Get_on-Gumroad-gold?style=for-the-badge&logo=gumroad)](https://solisdynamics.gumroad.com/l/java-libraries-guide-2) |
+| **Leanpub** | [![Leanpub](https://img.shields.io/badge/Read_on-Leanpub-black?style=for-the-badge&logo=leanpub)](https://leanpub.com/java-libraries-guide-2) |
+| **Amazon** | [![Amazon](https://img.shields.io/badge/Order_on-Amazon-orange?style=for-the-badge&logo=amazon)](https://www.amazon.com/dp/B0GX321MRH) |
+| **Google Play** | [![Google Play](https://img.shields.io/badge/Digital-Google_Play-blue?style=for-the-badge&logo=googleplay)](https://play.google.com/store/books/details?id=gBHUEQAAQBAJ) |
 
 Move beyond examples and start building real-world Java applications.
 
